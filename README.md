@@ -83,23 +83,5 @@ Optimize existing solutions
 Santosh Ahirwar
 Aspiring Software Developer
 
-yaml
-Copy code
 
----
 
-## 🔥 Pro tip (optional but powerful)
-
-If you want to look more **professional**, add this line:
-
-> *"This repository follows SDLC practices with proper problem breakdown, logical flowcharts (mentally), and structured documentation."*
-
----
-
-If you want, I can:
-- customize this for **GitHub profile**
-- add **badges**
-- make it **resume-friendly**
-- rewrite it in **very simple English**
-
-Just say the word 😄
